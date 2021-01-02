@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="username">Entrer Name</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="remember">Remember my login information</string>
+    <string name="checkbox">com.mdw31g1.sharedpreferences.checkbox</string>
+    <string name="name">com.mdw31g1.sharedpreferences.name</string>
+    <string name="password">com.mdw31g1.sharedpreferences.password</string>
+</resources>
